@@ -1,0 +1,5 @@
+- Built an interactive sales dashboard using Power BI
+- Datasets: SalesOrders, Customers, Products
+- Measures: Total Sales, Total Quantity, Avg Sales per Order, Profit Margin %
+- Visuals: Card, Clustered Column, Line Chart, Pie Chart, Table
+- Slicers: CustomerName, Region, Category
